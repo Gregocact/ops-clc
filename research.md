@@ -4,7 +4,7 @@
 
 ---
 
-## Scientific concept (high level)
+## OPS-CLC Project
 OPS-CLC investigated chiral light–matter interaction in cholesteric liquid-crystal droplets. The core idea was that the two circular components of a linearly polarised optical field may generate **opposite-sign optomechanical torques** on droplets of opposite handedness, potentially enabling contact-free discrimination mechanisms.
 
 ## Experimental platform
