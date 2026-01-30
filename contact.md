@@ -13,5 +13,6 @@ University of Bordeaux (LOMA)
 ---
 
 ## Funding acknowledgement
-This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Actions (MSCA), grant agreement **No. 101067273**.
+![European Union emblem](assets/images/eu-flag.jpg)
 
+This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Actions (MSCA), grant agreement **No. 101067273**.

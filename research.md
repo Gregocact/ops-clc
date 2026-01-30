@@ -23,3 +23,6 @@ During experiments, the internal defect structure (disclination line) proved dif
 
 *Conceptual illustration of the OPS-CLC project. Linearly polarised plane-wave light illuminates a microfluidic chamber containing cholesteric liquid-crystal droplets of opposite handedness (LH and RH). Chiral light–matter interaction leads to opposite optical torques and rotational dynamics.*
 
+![European Union emblem](assets/images/eu-flag.jpg)
+
+This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Actions (MSCA), grant agreement **No. 101067273**.

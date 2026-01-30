@@ -15,3 +15,6 @@ OPS-CLC follows open-science principles by sharing code and (when applicable) da
 ## Reproducibility
 - Analysis scripts and figure-generation notebooks can be referenced here as they become available.
 
+![European Union emblem](assets/images/eu-flag.jpg)
+
+This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Actions (MSCA), grant agreement **No. 101067273**.
